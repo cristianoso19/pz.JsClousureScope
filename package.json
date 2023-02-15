@@ -1,0 +1,20 @@
+{
+  "name": "pz.jsclousurescope",
+  "version": "1.0.0",
+  "description": "### Global Scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianoso19/pz.JsClousureScope.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianoso19/pz.JsClousureScope/issues"
+  },
+  "homepage": "https://github.com/cristianoso19/pz.JsClousureScope#readme"
+}
